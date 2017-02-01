@@ -1,0 +1,6 @@
+c:\users\serial-killer\documents\visual studio 2015\Projects\tresrayas\tresrayas\bin\Debug\tresrayas.exe.config
+c:\users\serial-killer\documents\visual studio 2015\Projects\tresrayas\tresrayas\bin\Debug\tresrayas.exe
+c:\users\serial-killer\documents\visual studio 2015\Projects\tresrayas\tresrayas\bin\Debug\tresrayas.pdb
+c:\users\serial-killer\documents\visual studio 2015\Projects\tresrayas\tresrayas\obj\Debug\tresrayas.csprojResolveAssemblyReference.cache
+c:\users\serial-killer\documents\visual studio 2015\Projects\tresrayas\tresrayas\obj\Debug\tresrayas.exe
+c:\users\serial-killer\documents\visual studio 2015\Projects\tresrayas\tresrayas\obj\Debug\tresrayas.pdb
